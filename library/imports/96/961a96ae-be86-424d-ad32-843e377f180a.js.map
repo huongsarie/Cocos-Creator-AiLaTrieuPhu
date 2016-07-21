@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAM,SAAS,GAAC,CAChB;AACA,SAAK,EAAC,IAAI;AACV,QAAI,EAAC,SAAS;AACd,SAAK,EAAC,MAAM;CACX,EACD;AACA,SAAK,EAAC,IAAI;AACV,QAAI,EAAC,SAAS;AACd,SAAK,EAAC,MAAM;CACX,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,SAAS;AACd,SAAK,EAAC,MAAM;CACX,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,WAAW;AAChB,SAAK,EAAC,OAAO;CACZ,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,WAAW;AAChB,SAAK,EAAC,OAAO;CACZ,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,WAAW;AAChB,SAAK,EAAC,OAAO;CACZ,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,WAAW;AAChB,SAAK,EAAC,OAAO;CACZ,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,YAAY;AACjB,SAAK,EAAC,QAAQ;CACb,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,YAAY;AACjB,SAAK,EAAC,QAAQ;CACb,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,YAAY;AACjB,SAAK,EAAC,QAAQ;CACb,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,YAAY;AACjB,SAAK,EAAC,QAAQ;CACb,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,YAAY;AACjB,SAAK,EAAC,QAAQ;CACb,EACD,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,YAAY;AACjB,SAAK,EAAC,QAAQ;CACb,EAED,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,YAAY;AACjB,SAAK,EAAC,QAAQ;CACb,EAED,EAAC,KAAK,EAAC,IAAI;AACX,QAAI,EAAC,aAAa;AAClB,SAAK,EAAC,SAAS;CACd,CACA,CAAC;AACF,MAAM,CAAC,OAAO,GAAC;AACX,aAAS,EAAE,SAAS;CACvB,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "const datalevel=[\r\n{\r\nlevel:\"01\",\r\nname:\"200.000\",\r\nmoney:200000,\r\n},\r\n{\r\nlevel:\"02\",\r\nname:\"400.000\",\r\nmoney:400000\r\n},\r\n{level:\"03\",\r\nname:\"600.000\",\r\nmoney:600000\r\n},\r\n{level:\"04\",\r\nname:\"1.000.000\",\r\nmoney:1000000\r\n},\r\n{level:\"05\",\r\nname:\"2.000.000\",\r\nmoney:2000000\r\n},\r\n{level:\"06\",\r\nname:\"3.000.000\",\r\nmoney:3000000\r\n},\r\n{level:\"07\",\r\nname:\"6.000.000\",\r\nmoney:6000000\r\n},\r\n{level:\"08\",\r\nname:\"10.000.000\",\r\nmoney:10000000\r\n},\r\n{level:\"09\",\r\nname:\"14.000.000\",\r\nmoney:14000000\r\n},\r\n{level:\"10\",\r\nname:\"22.000.000\",\r\nmoney:22000000\r\n},\r\n{level:\"11\",\r\nname:\"30.000.000\",\r\nmoney:30000000\r\n},\r\n{level:\"12\",\r\nname:\"40.000.000\",\r\nmoney:40000000\r\n},\r\n{level:\"13\",\r\nname:\"60.000.000\",\r\nmoney:60000000\r\n}\r\n,\r\n{level:\"14\",\r\nname:\"85.000.000\",\r\nmoney:85000000\r\n}\r\n,\r\n{level:\"15\",\r\nname:\"150.000.000\",\r\nmoney:150000000\r\n}\r\n];\r\nmodule.exports={\r\n    datalevel: datalevel,\r\n};\r\n"
+  ]
+}

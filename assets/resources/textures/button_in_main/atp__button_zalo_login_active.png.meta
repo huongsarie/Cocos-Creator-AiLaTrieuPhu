@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "515a8598-cc16-451d-9f4c-3c0713ea068c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__button_zalo_login_active": {
+      "ver": "1.0.3",
+      "uuid": "acec3f74-68dd-4347-a9d5-45acb6fa52f7",
+      "rawTextureUuid": "515a8598-cc16-451d-9f4c-3c0713ea068c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 380,
+      "height": 91,
+      "rawWidth": 380,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

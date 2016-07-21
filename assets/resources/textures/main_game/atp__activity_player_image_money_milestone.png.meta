@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "053768d8-38a4-47a4-81fa-cb400b779886",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__activity_player_image_money_milestone": {
+      "ver": "1.0.3",
+      "uuid": "9babcfea-bb99-4abd-809e-650938599ddb",
+      "rawTextureUuid": "053768d8-38a4-47a4-81fa-cb400b779886",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 20,
+      "trimY": 0,
+      "width": 285,
+      "height": 43,
+      "rawWidth": 325,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1db961c3-1ff8-422d-b95b-3bfddad54c40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_huyen_thoai": {
+      "ver": "1.0.3",
+      "uuid": "a632d967-aa01-42e3-aa3a-f6fb91bb50a1",
+      "rawTextureUuid": "1db961c3-1ff8-422d-b95b-3bfddad54c40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

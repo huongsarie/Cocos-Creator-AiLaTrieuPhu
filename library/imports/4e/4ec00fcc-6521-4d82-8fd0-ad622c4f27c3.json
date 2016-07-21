@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__achievement_yeu_hoa_binh",
+    "texture": "acac7349-c2ec-411f-b0e4-45ab0362c5a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      118
+    ]
+  }
+}

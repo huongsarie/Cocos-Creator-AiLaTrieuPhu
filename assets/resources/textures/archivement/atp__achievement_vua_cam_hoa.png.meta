@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7a0779c3-590b-4dee-8070-bf637c91a596",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_vua_cam_hoa": {
+      "ver": "1.0.3",
+      "uuid": "c7db8ab7-3549-4107-92b2-3b4c9832c87e",
+      "rawTextureUuid": "7a0779c3-590b-4dee-8070-bf637c91a596",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

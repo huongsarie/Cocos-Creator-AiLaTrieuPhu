@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "adc8423d-5525-4eb0-a548-9d93b3f430e8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_kien_tuong": {
+      "ver": "1.0.3",
+      "uuid": "11ef1b89-cf5c-4fc6-bc70-1d7cbd331f56",
+      "rawTextureUuid": "adc8423d-5525-4eb0-a548-9d93b3f430e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

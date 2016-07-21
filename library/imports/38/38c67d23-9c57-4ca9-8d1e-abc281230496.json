@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_home_background",
+    "texture": "1b2e6bfa-8567-4cfc-8f5f-2ce10cdc810e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      800
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      800
+    ]
+  }
+}

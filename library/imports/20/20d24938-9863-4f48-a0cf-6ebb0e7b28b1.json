@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_player_image_money_curent",
+    "texture": "ecd4b05f-4d73-4a67-b112-7fbaa47b12f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      325,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      325,
+      43
+    ]
+  }
+}

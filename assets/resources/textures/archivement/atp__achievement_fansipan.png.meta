@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4b1a68a1-085f-434b-8198-ccf1507d7386",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_fansipan": {
+      "ver": "1.0.3",
+      "uuid": "edd7c7a9-b579-4690-97df-cc358654db40",
+      "rawTextureUuid": "4b1a68a1-085f-434b-8198-ccf1507d7386",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

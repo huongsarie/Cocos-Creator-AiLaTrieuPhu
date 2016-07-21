@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_profile_icon_friends",
+    "texture": "57d51301-6ee5-4bdf-b672-6512d2d3fcc2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      23
+    ]
+  }
+}

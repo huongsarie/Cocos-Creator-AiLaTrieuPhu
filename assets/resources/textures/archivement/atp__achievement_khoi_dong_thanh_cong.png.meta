@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6841ec9a-1747-45d3-b33a-d889b33b2575",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_khoi_dong_thanh_cong": {
+      "ver": "1.0.3",
+      "uuid": "b4a89af4-f290-489a-94f5-90e4223806e7",
+      "rawTextureUuid": "6841ec9a-1747-45d3-b33a-d889b33b2575",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

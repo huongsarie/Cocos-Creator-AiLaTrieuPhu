@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "85ed9638-5241-4622-8610-e089e9167a02",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_ban_la_trieu_phu": {
+      "ver": "1.0.3",
+      "uuid": "9bc2fd16-9382-4b33-a9f4-c2ced5c7a436",
+      "rawTextureUuid": "85ed9638-5241-4622-8610-e089e9167a02",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

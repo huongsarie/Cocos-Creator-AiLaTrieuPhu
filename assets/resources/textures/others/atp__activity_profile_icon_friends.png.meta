@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "57d51301-6ee5-4bdf-b672-6512d2d3fcc2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__activity_profile_icon_friends": {
+      "ver": "1.0.3",
+      "uuid": "2876b34a-3f7f-401a-bee3-ed7975763639",
+      "rawTextureUuid": "57d51301-6ee5-4bdf-b672-6512d2d3fcc2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 23,
+      "rawWidth": 30,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

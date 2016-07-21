@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__button_zalo_login_normal",
+    "texture": "b2124474-7d00-4db0-918d-d2bcffbac5be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      380,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      380,
+      91
+    ]
+  }
+}

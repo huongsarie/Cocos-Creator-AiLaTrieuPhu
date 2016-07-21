@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__btn_template_active",
+    "texture": "262292ab-ada9-4db5-b8fb-c9bfaee95090",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      182,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      61
+    ]
+  }
+}

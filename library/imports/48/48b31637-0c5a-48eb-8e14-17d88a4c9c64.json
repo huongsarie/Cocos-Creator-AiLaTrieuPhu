@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__dialog_confirm_background_button",
+    "texture": "2afbe38d-04c1-410f-92f8-577d8366aaa9",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      168,
+      42
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      169,
+      43
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,YAAY,GAAC;AACb,MAAE,EAAC,IAAI;AACN,SAAK,EAAC,OAAO;AACb,cAAU,EAAC,YAAY;AACvB,QAAI,EAAC,MAAM;AACX,aAAS,EAAC,OAAO;AACjB,WAAO,EAAC,SAAS;AACjB,WAAO,EAAC,SAAS;AACjB,SAAK,EAAC,YAAY;;CAEtB,CAAC;;AAEF,IAAI,cAAc,GAAC;AACf,YAAQ,EAAC,UAAU;CACtB,CAAC;;AAEF,IAAI,UAAU,GAAC;AACX,YAAQ,EAAC,UAAU;AAClB,QAAI,EAAC,MAAM;CACf,CAAC;AACF,MAAM,CAAC,OAAO,GAAC;AACX,gBAAY,EAAC,YAAY;AACxB,kBAAc,EAAC,cAAc;AAC7B,cAAU,EAAC,UAAU;CACzB,CAAA",
+  "file": "unknown",
+  "sourcesContent": [
+    "var UserInforKey={\r\n    ID:\"id\"\r\n    ,LEVEL:\"level\"\r\n    ,EXPERIENCE:\"experience\"\r\n    ,NAME:\"name\"\r\n    ,PLAYTIMES:\"times\"\r\n    ,ARCHIRE:\"archire\"\r\n    ,HISTORY:\"history\"\r\n    ,TOTAL:\"totalmoney\"\r\n    \r\n};\r\n\r\nvar ArchivementKey={\r\n    COMPLETE:\"complete\"\r\n};\r\n\r\nvar HistoryKey={\r\n    QUESTION:\"question\"\r\n    ,TIME:\"time\"\r\n};\r\nmodule.exports={\r\n    UserInforKey:UserInforKey\r\n    ,ArchivementKey:ArchivementKey\r\n    ,HistoryKey:HistoryKey\r\n}"
+  ]
+}

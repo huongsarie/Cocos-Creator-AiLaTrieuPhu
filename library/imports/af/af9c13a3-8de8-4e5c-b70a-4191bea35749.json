@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_home_button_challenge",
+    "texture": "d577b6b5-3381-471b-84f1-808b0598a4f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      380,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      380,
+      91
+    ]
+  }
+}

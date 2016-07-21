@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_home_button_single",
+    "texture": "80fd6641-9e88-4e04-8e77-a20f8f50ea04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      380,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      380,
+      91
+    ]
+  }
+}

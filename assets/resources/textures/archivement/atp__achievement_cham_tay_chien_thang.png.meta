@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d80c4704-e934-4d5a-8e77-0c5f90b500ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_cham_tay_chien_thang": {
+      "ver": "1.0.3",
+      "uuid": "d7b13db4-1fb7-41f7-8e5d-dd9d570dac6f",
+      "rawTextureUuid": "d80c4704-e934-4d5a-8e77-0c5f90b500ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

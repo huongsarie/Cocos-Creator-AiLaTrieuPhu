@@ -1,0 +1,74 @@
+[
+{"id":1,
+"description":"Lần đầu tiên luôn thú vị, nhất là khi chiến thắng. Danh hiệu này để ghi nhận chiến thắng đầu tiên của bạn.",
+"name":"Chiến thắng mở hàng"
+},
+{"id":2,
+"description":"Cần 5 chiến thắng để mở danh hiệu này. Tập trung và bạn sẽ làm được.",
+"name":"Bắt nhịp chiến thắng"
+},
+{"id":3,
+"description":"Thắng 10 trận. Bạn càng chơi càng hay.",
+"name":"Thần tốc táo bạo"
+},
+{"id":4,
+"description":"Thắng 20 trận để được công nhận là thợ săn chuyên nghiệp.",
+"name":"Thợ săn chiến thắng"
+},
+{"id":5,
+"description":"Thắng 30 trận để được công nhận là kiện tướng.",
+"name":"Kiện tướng"
+},
+{"id":6,
+"description":"Tuyệt vời! Với 40 trận thắng bạn trở thành Đại Kiện Tướng của … Rất ít người có thể đạt được điều này.",
+"name":"Đại kiện tướng"
+},
+{"id":7,
+"description":"Có những điều tưởng như là không thể. Nếu thắng được 50 trận thách đấu, chúng tôi công nhận bạn chính là huyền thoại.",
+"name":"Huyền thoại"
+},
+{"id":8,
+"description":"Tìm được một đối thủ xứng tầm không hề dễ dàng. Hòa 5 trận thách đấu với cùng một người.",
+"name":"Kì phùng địch thủ"
+},
+{"id":9,"description":"Hòa 10 trận thách đấu. Bạn là nhân vật bất bại bất thắng.",
+"name":"Vua cầm hòa"
+},
+{"id":10,
+"description":"Hòa 20 trận thách đấu. Bạn có thể mang lại hòa bình cho thế giới.",
+"name":"Yêu hòa bình"
+},
+{"id":11,
+"description":"Rùa khởi đầu chậm nhưng quan trọng là vẫn giành được chiến thắng với 1 câu trả lời đúng.",
+"name":"Thần rùa"
+},
+{"id":12,
+"description":"Vượt qua mốc 5 câu hỏi của chương trình. Nghe vậy chứ không dễ đâu.",
+"name":"Khởi đầu mạnh mẽ"
+},
+{"id":13,
+"description":"Vượt qua mốc 10 câu hỏi của chương trình. Bạn bắt nhịp rất nhanh.",
+"name":"Bứt tốc vượt lên"
+},
+{"id":14,
+"description":"Dừng bước khi chỉ còn cách chiến thắng 1 câu thật không vui vẻ gì nhưng đây là cách duy nhất để nhận danh hiệu này.",
+"name":"Chạm tay chiến thắng"
+},
+{"id":15,
+"description":"Trả lời đúng hết 15 câu hỏi. Bạn chính là Triệu Phú mà chúng tôi tìm kiếm lâu nay.",
+"name":"Bạn là triệu phú"
+},
+{"id":16,
+"description":"Ham muốn chinh phục thử thách? Chơi 5 trận ở chế độ bất kì để chứng minh là bạn sẵn sàng.",
+"name":"Khởi động thành công"
+},
+{"id":17,
+"description":"Bạn đã tập luyện chăm chỉ để chinh phục đỉnh núi cao nhất Việt Nam chưa? Chơi 20 trận để mở danh hiệu này.",
+"name":"Chinh phục Fansipan"
+},
+{"id":18,"description":"Núi cao còn có núi cao hơn. Chinh phục đỉnh núi cao nhất thế giới bằng cách chơi 50 trận.","name":"Chinh phục Everest"},{"id":19,"description":"Cần chơi 100 trận để nhận danh hiệu này. Olympus, ngôi nhà của những vị thần, sẽ chào đón bạn.","name":"Chinh phục Olympus"},{"id":20,"description":"3 chiến thắng liên tiếp và bạn có hattrick.","name":"Hattrick"},{"id":21,"description":"Với 10 chiến thắng liên tiếp, kiến thức của bạn quá hoàn hảo.","name":"Thập toàn thập mỹ"},{"id":22,"description":"Với 20 trận thắng liên tiếp, dường như không còn ai ngăn cản được bạn.","name":"Bất khả chiến bại"},{"id":23,"description":"Khả năng của bạn không còn ai sánh được nữa. 50 trận thắng liên tiếp là một kỉ lục tuyệt vời.","name":"Độc cô cầu bại"},{"id":24,"description":"Thua 5 trận liên tục là một kỉ lục khá chua chát. Nhưng chúng tôi sẽ giành cho bạn một điều ngọt ngào.","name":"Kẹo ngọt"},{"id":25,"description":"Cuộc sống luôn có những lúc khó khăn. Nhưng chúng tôi tin ở khả năng của bạn.","name":"Bại không nản"},{"id":26,"description":"Kiến thức là kho báu cho người sở hữu. Hãy xếp hạng nhất trong tuần để chứng minh là bạn xứng đáng.","name":"Kho báu kiến thức"
+},
+{"id":27,
+"description":"Người có học vấn, có hiểu biết sâu rộng, được người đời tôn sùng.",
+"name":"Nhà hiền triết"
+}]

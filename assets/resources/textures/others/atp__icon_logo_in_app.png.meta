@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "730cad90-e25a-48a6-b86d-fdb3bcb38fb2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__icon_logo_in_app": {
+      "ver": "1.0.3",
+      "uuid": "89385e81-1d4c-4f5e-89a7-c9ac600c6a4e",
+      "rawTextureUuid": "730cad90-e25a-48a6-b86d-fdb3bcb38fb2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 290,
+      "height": 290,
+      "rawWidth": 290,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "08e24f58-2079-4fb4-bc70-791a7834dc7f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_than_toc_tao_bao": {
+      "ver": "1.0.3",
+      "uuid": "aceaa31c-2d1d-43a5-ba2d-8ec6eeeadc37",
+      "rawTextureUuid": "08e24f58-2079-4fb4-bc70-791a7834dc7f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "22f8dcd2-26ea-4bf2-8ef5-7c0a531be8ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__activity_player_layout_play_question_background": {
+      "ver": "1.0.3",
+      "uuid": "a09ad308-33df-407c-a493-0db6ac17e3e9",
+      "rawTextureUuid": "22f8dcd2-26ea-4bf2-8ef5-7c0a531be8ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 472,
+      "height": 207,
+      "rawWidth": 476,
+      "rawHeight": 211,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

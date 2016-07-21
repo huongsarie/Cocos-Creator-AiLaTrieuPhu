@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,aAAa,GAAC,EAEjB,CAAC;AACF,MAAM,CAAC,OAAO,GAAC;AACX,iBAAa,EAAC,aAAa;AAC3B,gBAAY,EAAG,sBAAS,OAAO,EAAC;AAC5B,YAAI,GAAG,GAAE,EAAE,CAAC,GAAG,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;AAC7B,YAAI,aAAa,GAAC,EAAE,CAAC;AACrB,UAAE,CAAC,MAAM,CAAC,IAAI,CAAC,GAAG,EAAE,UAAS,GAAG,EAAC,GAAG,EAAC;AACjC,yBAAa,GAAE,IAAI,CAAC,SAAS,CAAC,GAAG,CAAC,CAAC;AACnC,yBAAa,GAAC,aAAa,CAAC,SAAS,CAAC,CAAC,EAAE,aAAa,CAAC,WAAW,CAAC,GAAG,CAAC,CAAC,CAAC;;SAG5E,CAAC,CAAC;AACH,eAAO,aAAa,CAAC;KACxB;CACJ,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var ReadWriteJson={\r\n   \r\n};\r\nmodule.exports={\r\n    ReadWriteJson:ReadWriteJson,\r\n    readFileJson : function(urljson){\r\n        let url= cc.url.raw(urljson);\r\n        var stringcontent=\"\";\r\n        cc.loader.load(url, function(err,res){\r\n            stringcontent= JSON.stringify(res);\r\n            stringcontent=stringcontent.substring(1, stringcontent.lastIndexOf(\"]\"));\r\n            // console.log( 'load['+ url +'], err['+err+'] result: ' + JSON.stringify( res ) );\r\n           \r\n        });\r\n        return stringcontent;\r\n    }\r\n};\r\n"
+  ]
+}

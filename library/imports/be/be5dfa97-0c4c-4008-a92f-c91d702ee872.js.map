@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,WAAW,GAAC,EAAE,CAAC,IAAI,CAAC;AACpB,SAAK,EAAC,CAAC;AACP,YAAQ,EAAC,CAAC;AACV,YAAQ,EAAC,CAAC;AACV,YAAQ,EAAC,CAAC;AACV,YAAQ,EAAC,CAAC;CACb,CAAC,CAAC;AACH,IAAI,SAAS,GAAC,EAAE,CAAC,IAAI,CAAC;AAClB,SAAK,EAAC,CAAC;AACP,QAAI,EAAC,CAAC;AACN,UAAM,EAAC,CAAC;AACR,SAAK,EAAC,CAAC;AACP,QAAI,EAAC,CAAC;AACN,YAAQ,EAAC,CAAC;CACb,CAAC,CAAC;AACH,IAAI,SAAS,GAAC;AACV,cAAU,EAAC,YAAY;AACtB,cAAU,EAAC,YAAY;CAC3B,CAAC;AACF,IAAI,KAAK,GAAC,EAET,CAAC;AACF,IAAI,eAAe,GAAC,iBAAiB,CAAC;AACtC,MAAM,CAAC,OAAO,GAAC;AACX,SAAK,EAAC,KAAK;AACX,eAAW,EAAE,WAAW;AACxB,aAAS,EAAC,SAAS;AACnB,aAAS,EAAC,SAAS;AACnB,mBAAe,EAAC,iBAAiB;AACjC,iBAAa,EAAE,uBAAS,MAAM,EAAC;AAC/B,gBAAQ,MAAM;AACN,iBAAK,WAAW,CAAC,QAAQ;AACrB,uBAAO,GAAG,CAAC;AAAA,AACf,iBAAK,WAAW,CAAC,QAAQ;AACrB,uBAAO,GAAG,CAAC;AAAA,AACf,iBAAK,WAAW,CAAC,QAAQ;AACrB,uBAAO,GAAG,CAAC;AAAA,AACf,iBAAK,WAAW,CAAC,QAAQ;AACrB,uBAAO,GAAG,CAAC;AAAA,SAClB;KACJ;CACJ,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var AnswerState=cc.Enum({\r\n    EMPTY:0,\r\n    ANSWER_A:1,\r\n    ANSWER_B:2,\r\n    ANSWER_C:3,\r\n    ANSWER_D:4,\r\n});\r\nvar HelpState=cc.Enum({\r\n    EMPTY:0,\r\n    STOP:1,\r\n    CHANGE:2,\r\n    N5050:3,\r\n    CALL:4,\r\n    AUDIENCE:5\r\n});\r\nvar GameState={\r\n    SOUND_MODE:'SOUND_MODE'\r\n    ,MUSIC_MODE:'MUSIC_MODE'\r\n};\r\nvar State={\r\n    \r\n};\r\nvar ARCHIVEMENT_KEY='ARCHIVEMENT_KEY';\r\nmodule.exports={\r\n    State:State,\r\n    AnswerState: AnswerState,\r\n    HelpState:HelpState,\r\n    GameState:GameState,\r\n    ARCHIVEMENT_KEY:'ARCHIVEMENT_KEY',\r\n    getNameAnswer: function(number){\r\n    switch (number) {\r\n            case AnswerState.ANSWER_A:\r\n                return 'A';\r\n            case AnswerState.ANSWER_B:\r\n                return 'B';\r\n            case AnswerState.ANSWER_C:\r\n                return 'C';\r\n            case AnswerState.ANSWER_D:\r\n                return 'D';\r\n        }\r\n    }\r\n};"
+  ]
+}

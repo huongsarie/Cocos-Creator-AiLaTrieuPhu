@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9e343eb5-40e5-42f4-ae24-18d0f086aa3d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__activity_player_layout_money_background": {
+      "ver": "1.0.3",
+      "uuid": "9bab7c23-f2e9-422b-8f75-3f451ff7f406",
+      "rawTextureUuid": "9e343eb5-40e5-42f4-ae24-18d0f086aa3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 480,
+      "height": 800,
+      "rawWidth": 480,
+      "rawHeight": 800,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

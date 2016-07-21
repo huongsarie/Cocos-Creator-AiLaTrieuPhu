@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "anim_nhapnhay_true",
+  "_objFlags": 0,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9d168895-8bb4-4077-8449-c37f3ce79458"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "12fc6ac4-8cf8-4d79-9d3f-1f9a9af3d4d4"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "12fc6ac4-8cf8-4d79-9d3f-1f9a9af3d4d4"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "color": [
+        {
+          "frame": 0.016666666666666666,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          }
+        },
+        {
+          "frame": 0.5,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 226,
+            "g": 226,
+            "b": 226,
+            "a": 255
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

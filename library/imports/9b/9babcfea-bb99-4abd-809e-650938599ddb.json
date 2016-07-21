@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_player_image_money_milestone",
+    "texture": "053768d8-38a4-47a4-81fa-cb400b779886",
+    "atlas": "",
+    "rect": [
+      20,
+      0,
+      285,
+      43
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      325,
+      43
+    ]
+  }
+}

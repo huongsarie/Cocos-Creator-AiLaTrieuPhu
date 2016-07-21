@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_player_layout_help_call_03",
+    "texture": "31cefb8c-a296-4e6b-825c-8dc88b8012d8",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      105,
+      105
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      117,
+      118
+    ]
+  }
+}

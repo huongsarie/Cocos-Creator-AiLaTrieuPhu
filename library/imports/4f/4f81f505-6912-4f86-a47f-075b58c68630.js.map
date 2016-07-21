@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAM,SAAS,GAAC,OAAO,CAAC,WAAW,CAAC,CAAC,SAAS,CAAC;AAC/C,IAAI,WAAW,GAAC,EAAE,CAAC,KAAK,CAAC;AACrB,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,kBAAU,EAAC;AACP,uBAAQ,IAAI;AACZ,gBAAI,EAAE,EAAE,CAAC,KAAK;SACjB;AACD,aAAK,EAAC,CAAC;AACP,aAAK,EAAC,CAAC;KACV;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;AACA,iBAAa,EAAC,uBAAS,cAAc,EAAC;;AACnC,YAAG,cAAc,GAAC,CAAC,EAAC;AAChB,gBAAI,CAAC,YAAY,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC;AAC9B,gBAAI,CAAC,KAAK,GAAC,CAAC,CAAC;SAChB,MAAI;AACD,gBAAI,IAAI,GAAC,SAAS,CAAC,cAAc,CAAC,CAAC;AACnC,gBAAI,CAAC,KAAK,GAAC,IAAI,CAAC,KAAK,CAAC;AACtB,gBAAI,CAAC,YAAY,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;SAChC;KAEJ;AACA,gBAAY,EAAC,sBAAS,SAAS,EAAC;AAC7B,YAAI,CAAC,UAAU,CAAC,MAAM,GAAC,SAAS,CAAC;KACpC;AACA,YAAQ,EAAC,oBAAU;AAChB,eAAO,IAAI,CAAC,KAAK,CAAC;KACrB;;;;;CAKJ,CAAC,CAAC;AACH,MAAM,CAAC,OAAO,GAAC,WAAW,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "const DataLevel=require('DataLevel').datalevel;\r\nvar MoneyInGame=cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        labelMoney:{\r\n            default:null,\r\n            type: cc.Label\r\n        },\r\n        begin:0,\r\n        money:0,\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n      \r\n    }\r\n    ,setLabelMoney:function(numberquestion){ //0 -> 14\r\n        if(numberquestion<0){\r\n            this.setTextLabel(this.begin);\r\n            this.money=0;\r\n        }else{\r\n            var data=DataLevel[numberquestion];\r\n            this.money=data.money;\r\n            this.setTextLabel(data.name);\r\n        }\r\n        \r\n    }\r\n    ,setTextLabel:function(textmoney){\r\n        this.labelMoney.string=textmoney;\r\n    }\r\n    ,getMoney:function(){\r\n        return this.money;\r\n    }\r\n    // called every frame, uncomment this function to activate update callback\r\n    // update: function (dt) {\r\n\r\n    // },\r\n});\r\nmodule.exports=MoneyInGame;\r\n"
+  ]
+}

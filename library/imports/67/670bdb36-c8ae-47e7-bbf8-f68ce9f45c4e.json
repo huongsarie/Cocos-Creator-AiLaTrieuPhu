@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "switch_off",
+    "texture": "23d66966-89bb-42a3-aabd-c34ed18a60e2",
+    "atlas": "",
+    "rect": [
+      0,
+      14,
+      64,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

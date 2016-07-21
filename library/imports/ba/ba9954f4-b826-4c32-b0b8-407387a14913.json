@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "atp__activity_match_result_image_stroke",
+    "texture": "826933c0-64b2-48ba-88a6-702469326d7b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      2
+    ]
+  }
+}

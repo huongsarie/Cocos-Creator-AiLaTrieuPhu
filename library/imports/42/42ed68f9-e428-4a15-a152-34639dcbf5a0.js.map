@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,WAAW,GAAC,EAAE,CAAC,KAAK,CAAC;AACrB,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,gBAAQ,EAAC;AACL,uBAAQ,IAAI;AACZ,gBAAI,EAAC,EAAE,CAAC,KAAK;SAChB;AACA,kBAAU,EAAC;AACR,uBAAQ,IAAI;AACZ,gBAAI,EAAC,EAAE,CAAC,KAAK;SAChB;KACJ;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;AACD,YAAQ,EAAC,kBAAS,MAAM,EAAC;AACrB,YAAI,CAAC,QAAQ,CAAC,MAAM,GAAC,MAAM,CAAC;KAC/B;AACA,cAAU,EAAC,oBAAS,QAAQ,EAAC;AAC1B,YAAI,CAAC,UAAU,CAAC,MAAM,GAAC,QAAQ,CAAC;KACnC;;CAEJ,CAAC,CAAC;AACH,MAAM,CAAC,OAAO,GAAC;AACX,eAAW,EAAC,WAAW;;CAE1B,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var BonusPrefab=cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        labMoney:{\r\n            default:null,\r\n            type:cc.Label\r\n        }\r\n        ,labArchire:{\r\n            default:null,\r\n            type:cc.Label\r\n        }\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n\r\n    },\r\n    setMoney:function(tmoney){\r\n        this.labMoney.string=tmoney;\r\n    }\r\n    ,setArchire:function(tarchire){\r\n        this.labArchire.string=tarchire;\r\n    }\r\n\r\n});\r\nmodule.exports={\r\n    BonusPrefab:BonusPrefab\r\n    \r\n};\r\n"
+  ]
+}

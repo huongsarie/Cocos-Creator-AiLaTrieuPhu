@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d5322603-87c9-410e-b749-33fb4b5ad165",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "atp__achievement_thap_toan_thap_my": {
+      "ver": "1.0.3",
+      "uuid": "558a037d-45a9-4651-8416-09d13b7b01de",
+      "rawTextureUuid": "d5322603-87c9-410e-b749-33fb4b5ad165",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 118,
+      "height": 118,
+      "rawWidth": 118,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

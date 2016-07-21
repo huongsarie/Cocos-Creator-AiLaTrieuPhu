@@ -1,0 +1,48 @@
+{"user":[
+    {
+    "id":100001,
+    "level":6,
+    "experience":2200,
+    "name":"Sarie", 
+    "times":50,
+    "playlasttime":10,
+    "signification":[
+        {"idsign":0,"complete":0},
+        {"idsign":1,"complete":0},
+        {"idsign":2,"complete":20},
+        {"idsign":3,"complete":100},
+        {"idsign":4,"complete":65},
+        {"idsign":5,"complete":0},
+        {"idsign":6,"complete":100},
+        {"idsign":7,"complete":40},
+        {"idsign":8,"complete":100},
+        {"idsign":9,"complete":100},
+        {"idsign":10,"complete":100},
+        {"idsign":11,"complete":100},
+        {"idsign":12,"complete":100}
+        
+        ]
+    ,"history":[
+        {"historyquestion":4, "historytime":12042016},
+        {"historyquestion":1, "historytime":12042016},
+        {"historyquestion":7, "historytime":13042016},
+        {"historyquestion":15, "historytime":14042016}
+        ]
+    ,"totalmoney":600000
+    ,"cup":1
+    ,"friends":12
+    ,"weekmoney":[
+        {"weeknumber":13, "totalmoney":30000000}
+        ,{"weeknumber":14, "totalmoney":22000000}
+        ,{"weeknumber":15, "totalmoney":1500000}
+        ,{"weeknumber":19, "totalmoney":600000}
+        ]
+    ,"challenge":{
+        "total":112,
+        "win":50,
+        "lose":30
+    }
+    }
+]
+    
+}
